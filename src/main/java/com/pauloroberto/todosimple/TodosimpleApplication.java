@@ -1,14 +1,14 @@
-package com.pauloroberto.todossimples;
+package com.pauloroberto.todosimple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodossimplesApplication {
+public class TodosimpleApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(TodossimplesApplication.class, args);
+		SpringApplication.run(TodosimpleApplication.class, args);
 	}
 
 }

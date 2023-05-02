@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pauloroberto</groupId>
-	<artifactId>todossimples</artifactId>
+	<artifactId>todosimple</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todossimples</name>
 	<description>todossimples</description>
